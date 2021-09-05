@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TauseefFeraz
-- 👀 I’m interested in Findig Flaw and Fixing it.
-- 🌱 I’m currently learning how to navigate in th realm of tech world.
+- 👀 A tech nerd who is interested in Findig Flaw and Fixing it.
+- 🌱 I’m currently learning how to navigate in th realm of Programing world.
 - 💞️ I’m looking to collaborate on anything & everything.
-- 📫 How to reach me tauseef.feraz@gmail.com
+- 📫 How to reach me -- tauseef.feraz@gmail.com
 - Twitter- @tauseefferaz
 - Youtube- https://www.youtube.com/c/TauseefFeraz
