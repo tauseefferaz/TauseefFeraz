@@ -1,7 +1,7 @@
-- 👋 Hi, I’m - **Tauseef Feraz**
+- 👋 Hi, I’m - Tauseef Feraz
 - 💻  A tech nerd who is interested in Findig Flaw & Fixing it.
 - Working as Product & Services in SaaS realm.
 - 📫 How to reach me -- tauseef.feraz@gmail.com
-- **Twitter**- @tauseefferaz
-- **Youtube**- https://www.youtube.com/c/TauseefFeraz
-- **Medium** - https://tauseef-feraz.medium.com/
+- Twitter- @tauseefferaz
+- Youtube- https://www.youtube.com/c/TauseefFeraz
+- Medium - https://tauseef-feraz.medium.com/
